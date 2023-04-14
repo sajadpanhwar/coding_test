@@ -2,7 +2,7 @@ package com.smallworld.dto;
 
 public class Transaction {
 	
-	
+			//json properties
 			private int mtn;
 			private double amount;
 			private String senderFullName;
